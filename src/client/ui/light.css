@@ -1,0 +1,275 @@
+window,
+dialog {
+    background: #87cefa;
+}
+
+.error_modal {
+    background: #87cefa;
+}
+
+.error_modal button {
+    background: #87cefa;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-bottom: 15px;
+}
+
+.error_modal label {
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+.notebook {
+    border: none;
+}
+
+.notebook > header.top {
+    background: #87cefa;
+    border: none;
+}
+
+.btn_add_chat_group {
+    background: #f0f8ff;
+    border-radius: 50px;
+}
+
+button {
+    background: #87cefa;
+}
+
+label {
+    font-size: 15px;
+    color: #34343a;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    padding: 15px;
+    background: #87cefa;
+}
+
+.panned {
+    background: #f0f8ff;
+}
+
+.notebook_tab {
+    background: #87cefa;
+}
+
+.tooltip * {
+    background-color: transparent;
+}
+
+.search_entry {
+    font-size: 15px;
+}
+
+.entry {
+    border-radius: 15px;
+    font-size: 17px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.b_close_profile {
+    background: #ABCDEF;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.l_select_chat {
+    font-size: 17px;
+}
+
+.username_button {
+    background: #ABCDEF;
+}
+
+.save_profile_btn,
+.b_delete_account,
+.b_change_theme {
+    margin-bottom: 100px;
+    background: #ABCDEF;
+    border-color: #ABCDEF;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.save_profile_btn:hover,
+.b_delete_account:hover,
+.b_change_theme:hover {
+    background: #ABCDEF;
+}
+
+.add_btn {
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.cancel_btn {
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.l_new_group_name {
+    margin-top: 30px;
+    margin-right: 190px;
+    font-size: 18px;
+}
+
+.error {
+    font-size: 15px;
+    color: red;
+}
+
+.success {
+    font-size: 15px;
+    color: green;
+}
+
+.invite_user_label {
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.login_signup_error {
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.new_group_error {
+    margin-right: 40px;
+    margin-bottom: 30px;
+}
+
+.chat_group_box {
+    background: #f0f8ff;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.box_message {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 5px;
+    background-color: #87cefa;
+}
+
+.box_message_button {
+    margin-right: 5px;
+}
+
+.chat_name {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    background-color: #87cefa;
+}
+
+.box9 {
+    background-color: #ABCDEF;
+}
+
+.msg {
+    background-color:#ABCDEF;
+    border-radius: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.message_input {
+    background-color: #87cefa;
+    padding: 10px;
+    padding-left: 10px;
+}
+
+.msgtxt {
+    padding-top: 5px;
+}
+
+.username {
+    margin-right: 50px;
+    color: gray;
+    font-size: 13px;
+}
+
+.time {
+    color: gray;
+    font-size: 13px;
+}
+
+.box5 {
+    background: #ABCDEF;
+}
+
+.l_not_users_found {
+    font-size: 20px;
+}
+
+.user_box {
+    background-color: #ABCDEF;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.user_box_open_dialog_btn {
+    border: none;
+    border-color: #ABCDEF;
+    background-color: #ABCDEF;
+    margin-right: 20px;
+}
+
+.user_box_username {
+    font-size: 18px;
+}
+
+.msg_margin_bottom {
+    margin-bottom: 10px;
+}
+
+.b_download,
+.b_download:hover,
+.b_download:active,
+.b_play,
+.b_play:hover,
+.b_play:active {
+    border: none;
+    border-radius: 25px;
+    border-color: #ABCDEF;
+    background: #ABCDEF;
+    margin-right: 20px;
+    padding: 8px;
+}
+
+.b_group_buttons:hover {
+    border-color: #ABCDEF;
+    background: #ABCDEF;
+    margin-right: 20px;
+}
+
+.b_username {
+    margin-left: 30px;
+}
